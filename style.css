@@ -1,0 +1,250 @@
+
+body{
+    margin: 0;
+    
+}
+/*----------Header Area-----------*/
+
+.header-area{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 10%;
+    margin-bottom: 100px;
+    
+}
+.header-text-part{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, #FF5959, tomato);
+    border-image-slice: 1;
+   
+    
+}
+.header-left-area{
+    width: 40%;
+    padding-right: 10%;
+    padding-top: 80px;
+}
+.header-text-part h1{
+    font-family: 'Merriweather', serif;
+    line-height: 30px;
+    font-size: 55px;
+    padding-bottom: 10px;
+    
+}
+#mission-color{
+    color:#715077;
+}
+.header-left-area p{
+    font-size: 20px;
+}
+.button-link{
+    border-radius: 5px;
+    color: #f8f7f5;
+    text-decoration: none;
+    padding: 17px 45px;
+    background-color: rgb(80, 216, 178);
+    line-height: 33px;
+}
+
+.header-right-area{
+    padding-top: 80px;
+    width: 40%;
+    padding-left: 80px;
+}
+.header-right-area img{
+    width: 90%;
+}
+
+.header-left-area p{
+    line-height: 30px;
+}
+
+
+/*------------------Mission Area ---------------------*/
+
+.mission-main-part{
+    padding-left: 10%;
+    padding-bottom: 100px;
+
+}
+.mission-main-part h1{
+    text-align: center;
+}
+.mission-main-part span{
+    color:#C1A642;
+}
+.mission-main-box-part{
+    display: flex;
+}
+.mission-box-part{
+    width: 30%;
+    padding:20px 5px;
+    background-color:#03A629;
+    border-radius: 20px;
+    margin-right: 10px;
+    color: white;
+    text-align: center;
+
+}
+
+.mission-box-part img{
+    width: 50%;
+}
+
+.vission-box-part {
+    width: 30%;
+    padding:20px 5px;
+    background-color:#292626;
+    border-radius: 20px;
+    margin-right: 10px;
+    color: white;
+    text-align: center;
+}
+.vission-box-part img{
+    width: 50%;
+}
+
+
+.goals-box-part{
+    width: 30%;
+    padding:20px 5px;
+    background-color:#190524;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+}
+.goals-box-part img{
+    width: 50%;
+}
+
+#heading-two-size{
+    font-size: 25px;
+}
+
+
+/*------------------------------------ Developa Area ------------------------*/
+
+.develop-docu-Area{
+    display: flex;
+    
+}
+.develop-img-part{
+    width: 36%;
+    padding-left: 15%;
+}
+.develop-img-part img{
+    width: 90%;
+    border-radius: 10px;
+}
+
+.develop-text-part{
+    width: 40%;
+}
+#heading-two-size{
+    font-size: 25px;
+}
+
+
+/*------------------------ Project Community Area -------------------*/
+
+.project-community-area{
+    display: flex;
+    padding:100px;
+}
+.community-text-part{
+    width: 40%;
+    padding-left: 10%;
+    padding-top: 50px;
+}
+.community-text-part h2{
+font-family: 'Poppins', sans-serif;
+line-height: 18px;
+font-size: 40px;
+}
+.community-text-part p{
+    padding-bottom: 15px;
+    font-family:  bold;
+}
+.community-img-part{
+    width: 45%;
+    padding-left: 5%;
+}
+.community-img-part img{
+    width: 70%;
+}
+
+/*--------------Our Project Portfolio Area-------------------*/
+
+.our-portfolio-area{
+    padding-left: 5%;
+    padding-bottom:90px;
+    text-align: center;
+    background-color: #FFEEEE;
+}
+.our-portfolio-area h2{
+    padding-top: 15px;
+}
+.our-portfolio-area span{
+    color:blue;
+}
+
+.img-portfolio-Top-part{
+    display: flex;
+    padding-bottom: 2%;
+    padding-left: 15%;
+    text-align: center;
+}
+.img-portfolio-1{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    margin: 7% 0;
+    margin-right: 4%;
+}
+
+.img-portfolio-2{
+    margin: 7% 0;
+    margin-right: 4%;
+    padding-right: 4%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+
+.img-portfolio-3{
+    margin: 7% 0%;
+    size: 100%;
+    padding-right: 2%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+
+/*-------------------------------Footer Area-----------------------------------*/
+
+footer{
+    margin: 0;
+    background-size: 200px;
+    background-color: #0B0D17;
+    text-align: center;
+    color: whitesmoke;
+    padding: 10px 0;
+}
+
+footer h3{
+    font-family: 'Dancing Script', cursive;
+    font-weight:bold;
+    font-size: 40px;
+    
+}
+footer h3 span{
+    color:blue;
+}
+footer p{
+    color: #b8b9bb;
+}
+
+
+
+
+/*------------------------The Project End------------------------*/
